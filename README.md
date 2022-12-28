@@ -6,11 +6,13 @@ This is a Google Chrome extension that checks the safety of the entered URL addr
 
 ## Installation
 
+Download on Chrome Web Store
 - Download and install ANTIMAL from the Chrome Web Store.
 - Open the Chrome browser and click on the three dots (...) in the top-left corner.
 - Select the "Extensions" option from the menu.
 - Enable the ANTIMAL extension.
-or
+
+Manual Installation
 - First, fork or download this repository as a zip.
 - Go to the "Settings" menu in your Chrome browser and click on the "Extensions" tab.
 - Enable the "Developer Mode" option.
